@@ -1,0 +1,5 @@
+name: HelloPlayer
+main: com.javawithminecraft.jonathan.helloplayer.HelloPlayer
+version: 0.1
+commands:
+  hello:
